@@ -1,7 +1,7 @@
 # :computer:**Parallax Scrolling Website**
-*A Parallax Scrolling website I made using `HTML, CSS and JavaScript`.Have Fun :smile:*
+*A Parallax Scrolling website I made using `HTML, CSS and JavaScript`.Have Fun :smile:* 
 
-<a href="https://sude-go.github.io/Parallax-Scrolling-Website/">Take a look</a>
+<a href="https://sude-go.github.io/Parallax-Scrolling-Website/">:fast_forward: **Take a look**</a>
 
 
 ><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="30">
